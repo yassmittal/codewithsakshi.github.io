@@ -24,7 +24,7 @@ body {
   width: 600px;
   height: 400px;
   margin: auto;
-  overflow: hidden;
+/*   overflow: hidden; */
   position: relative;
 }
 
